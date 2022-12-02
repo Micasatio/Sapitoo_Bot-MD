@@ -35,8 +35,8 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/IdkJhus/NotJhuz-MD
-> cd NotJhuz-MD
+> git clone https://github.com/Micasatio/Sapitoo_Bot-MD
+> cd Sapitoo_Bot-MD
 > yarn install 
 > npm install
 > npm update
