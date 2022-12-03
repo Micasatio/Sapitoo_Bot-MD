@@ -59,6 +59,6 @@ conn.sendHydrated(m.chat, str, wm, pp, 'https://github.com/IdkJhus', '𝙶𝙸�
 }}
 handler.help = ['menu2', 'help2', '?2', 'menuaudios']
 handler.tags = ['main']
-handler.command = /^(menu2|audios|menú2|memu2|menuaudio|menuaudios|memuaudios|memuaudio|audios|audio)$/i
+handler.command = /^(menu2|audios|menú2|Sapitoaudio|menuaudio|menuaudios|memuaudios|memuaudio|audios|audio)$/i
 handler.fail = null
 export default  handler
