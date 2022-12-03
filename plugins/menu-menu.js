@@ -63,7 +63,7 @@ text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length
     
 
 let str = `
-*ミ𝙷𝙾𝙻𝙰 ${name}, 𝙰𝚀𝚄𝙸 𝙴𝚂𝚃𝙰 𝙴𝙻 𝙼𝙴𝙽𝚄 𝙲𝙾𝙼𝙿𝙻𝙴𝚃𝙾 𝙳𝙴 𝐍𝐨𝐭𝐉𝐡𝐮𝐳ᙆ  ᷦ 彡*
+*ミ𝙷𝙾𝙻𝙰 ${name}, 𝙰𝚀𝚄𝙸 𝙴𝚂𝚃𝙰 𝙴𝙻 𝙼𝙴𝙽𝚄 𝙲𝙾𝙼𝙿𝙻𝙴𝚃𝙾 𝙳𝙴 Sapito_Bot 彡*
 
 *📅 𝙵𝙴𝙲𝙷𝙰: ${week}, ${date}*
 *📈 𝚃𝙸𝙴𝙼𝙿𝙾 𝙰𝙲𝚃𝙸𝚅𝙾: ${uptime}*
@@ -414,7 +414,7 @@ _(𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)_
 ° ඬ⃟👑 _${usedPrefix}delprem *<@tag>*_
 ° ඬ⃟👑 _${usedPrefix}listprem_
 `.trim()
-conn.sendHydrated2(m.chat, str, wm, pp, 'https://www.youtube.com/channel/UCVffcsDwUR2iVXeC-b4yprw', '𝚈𝙾𝚄𝚃𝚄𝙱𝙴', 'https://github.com/IdkJhus', '𝙶𝙸𝚃𝙷𝚄𝙱', [
+conn.sendHydrated2(m.chat, str, wm, pp, 'https://github.com/Micasatio/Sapitoo_Bot-MD', 'GitHub', 'https://', 'Grupo', [
 ['💻 𝙸𝙽𝚂𝚃𝙰𝙶𝚁𝙰𝙼 💻', '/donasi'],
 ['🔖 𝙾𝚆𝙽𝙴𝚁 🔖', '/owner'],
 ['🧧 𝙸𝙽𝙵𝙾𝙱𝙾𝚃 🧧', '/infobot']
