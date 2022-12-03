@@ -3,10 +3,10 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 import fs from 'fs'
 
-
+// ALEXIS YA SE QUE FALTA TU NUMERO LO AGREGARE MAS TARDE NO JODAS
 global.owner = [
-  ['50257681618', '𝐉𝐡𝐮𝐬𝐳ᙆ  ᷦ×͜×', true],
-  ['50230118401', '𝐍𝐨𝐭𝐉𝐡𝐮𝐳ᙆ  ᷦ', true],
+  ['595983186566', 'Sapito  ᷦ×͜×', true],
+  ['595983186566', 'Sapito  ᷦ', true],
 ] // Cambia los numeros que quieras
 global.mods = [] 
 global.prems = [] 
@@ -63,11 +63,11 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = '𝐉𝐡𝐮𝐬𝐳ᙆ  ᷦ×͜×'
-global.author = '★ 𝐍𝐨𝐭𝐉𝐡𝐮𝐳ᙆ  ᷦ★'
+global.packname = 'Sapito  ᷦ×͜×'
+global.author = '★ Sapito  ᷦ★'
 
-global.wm = '★ 𝐍𝐨𝐭𝐉𝐡𝐮𝐳ᙆ  ᷦ★'
-global.igfg = '★ 𝐍𝐨𝐭𝐉𝐡𝐮𝐳ᙆ  ᷦ★'
+global.wm = '★ Sapito  ᷦ★'
+global.igfg = '★ Sapito  ᷦ★'
 global.wait = '*⌛ _Cargando..._ ▬▬▬▭*'
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg')
