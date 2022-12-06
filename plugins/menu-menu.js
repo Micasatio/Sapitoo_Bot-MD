@@ -415,7 +415,7 @@ _(𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)_
 ° ඬ⃟👑 _${usedPrefix}listprem_
 `.trim()
 conn.sendHydrated2(m.chat, str, wm, pp, 'https://github.com/Micasatio/Sapitoo_Bot-MD', 'GitHub', 'https://', 'Grupo', [
-['Peru🦧', '/gimage Perú mierda'],
+['🏳️‍🌈', '/tts es gay de mierda'],
 ['🔖 𝙾𝚆𝙽𝙴𝚁 🔖', '/owner'],
 ['🧧 𝙸𝙽𝙵𝙾𝙱𝙾𝚃 🧧', '/infobot']
 ], m,)
