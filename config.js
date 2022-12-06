@@ -6,9 +6,9 @@ import fs from 'fs'
 // Perra mal parida dame tus tetas (.)(.)
 global.owner = [
   ['595983186566', 'Sapito  ᷦ×͜×', true],
-  ['420702012758', 'Sapito  ᷦ', true],
+  ['524531106422', 'Sapito  ᷦ', true],
 ] // Cambia los numeros que quieras
-global.mods = ['524531106422'] 
+global.mods = ['420702012758'] 
 global.prems = [911] 
 global.APIs = { // API Prefix
   // name: 'https://website'
