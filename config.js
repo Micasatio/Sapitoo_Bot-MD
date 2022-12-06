@@ -3,13 +3,13 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 import fs from 'fs'
 
-// ALEXIS YA SE QUE FALTA TU NUMERO LO AGREGARE DESPUES CERRA EL CULO PERRA 👺
+// Perra mal parida dame tus tetas (.)(.)
 global.owner = [
   ['595983186566', 'Sapito  ᷦ×͜×', true],
-  ['595983186566', 'Sapito  ᷦ', true],
+  ['420702012758', 'Sapito  ᷦ', true],
 ] // Cambia los numeros que quieras
-global.mods = [] 
-global.prems = [] 
+global.mods = ['524531106422'] 
+global.prems = [911] 
 global.APIs = { // API Prefix
   // name: 'https://website'
   amel: 'https://melcanz.com',
