@@ -3,7 +3,7 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 import fs from 'fs'
 
-// ALEXIS YA SE QUE FALTA TU NUMERO LO AGREGARE MAS TARDE NO JODAS
+// ALEXIS YA SE QUE FALTA TU NUMERO LO AGREGARE DESPUES CERRA EL CULO PERRA 👺
 global.owner = [
   ['595983186566', 'Sapito  ᷦ×͜×', true],
   ['595983186566', 'Sapito  ᷦ', true],
