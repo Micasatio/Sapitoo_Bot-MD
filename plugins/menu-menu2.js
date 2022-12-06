@@ -68,9 +68,7 @@ Es una Perra
 
 `.trim()
 conn.sendHydrated2(m.chat, str, wm, pp, '', '𝚈, [
-['💻  💻', '/donasi'],
-['🔖  🔖', '/owner'],
-['🧧  🧧', '/infobot']
+
 ], m,)
 //await conn.sendFile(m.chat, vn, 'menu.mp3', null, m, true, {
 //type: 'audioMessage', 
