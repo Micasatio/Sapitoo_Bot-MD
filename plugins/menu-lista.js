@@ -13,9 +13,9 @@ const sections = [
 {
 title: `Sapito_Bot Menu`,
 rows: [
-       {title: "/menú completo", description: "Para ver el menú completo de este bot de mierda", rowId: `${usedPrefix}menu`},
-        {title: "/menú audios", description: "para ver los audios del bot", rowId: `${usedPrefix}menuaudios`},
-        {title: "/menú +18", description: "para ver porno 🥵", rowId: `${usedPrefix}menusimple`},
+       {title: "/menú completo", description: "Para ver el menú completo de este bot de mierda", rowId: `${usedPrefix}menu3`},
+        {title: "/menú audios", description: "para ver los audios del bot", rowId: `${usedPrefix}menu2`},
+        {title: "Sapito-Bot", description: "Creado por SNT", rowId: `${usedPrefix}Sapito-Bot`},
       {title: "/hidetag", description: "Para mencionar a todos con un texto", rowId: `${usedPrefix}hidetag`},
       
 ]}, ]
